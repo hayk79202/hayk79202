@@ -15,6 +15,10 @@ I build small, focused projects across **C++ systems**, **Python services**, and
 | Project | Focus | Status |
 | --- | --- | --- |
 | [Multithreaded Task Scheduler](https://github.com/hayktshagharyan9-stack/multithreaded-task-scheduler) | C++17 thread pool, futures, graceful shutdown | Prototype |
+| [Performance Benchmark Harness](https://github.com/hayktshagharyan9-stack/performance-benchmark-harness) | Python benchmark runner and JSON comparisons | Prototype |
+| [Document Processing Service](https://github.com/hayktshagharyan9-stack/document-processing-service) | FastAPI upload and background processing | Prototype |
+| [Scheduling API](https://github.com/hayktshagharyan9-stack/scheduling-api) | NestJS events API with validation | Prototype |
+| [AI Engineering Agent](https://github.com/hayktshagharyan9-stack/ai-engineering-agent) | Read-only repository inspector; MCP integration planned | Early prototype |
 
 ## What I'm exploring
 
