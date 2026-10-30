@@ -6,7 +6,7 @@
 
 I work on backend services and APIs with **TypeScript/Node.js** and **Python**. I enjoy turning requirements into clear interfaces, reliable data flows, and testable code. I'm also exploring **C++ systems programming** and developer tools.
 
-[Projects](#selected-projects) · [What I'm exploring](#what-im-exploring)
+[Projects](#selected-projects) · [What I work on](#what-i-work-on)
 
 </div>
 
