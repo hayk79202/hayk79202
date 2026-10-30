@@ -4,7 +4,7 @@
 
 ### Hi, I'm Hayk 👋
 
-I build small, focused projects across **C++ systems**, **Python services**, and **TypeScript APIs**. I care about clear interfaces, useful tests, and documentation that says what a project actually does.
+I work on backend services and APIs with **TypeScript/Node.js** and **Python**. I enjoy turning requirements into clear interfaces, reliable data flows, and testable code. I'm also exploring **C++ systems programming** and developer tools.
 
 [Projects](#selected-projects) · [What I'm exploring](#what-im-exploring)
 
@@ -14,23 +14,23 @@ I build small, focused projects across **C++ systems**, **Python services**, and
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Multithreaded Task Scheduler](https://github.com/hayktshagharyan9-stack/multithreaded-task-scheduler) | C++17 thread pool, futures, graceful shutdown | Prototype |
-| [Performance Benchmark Harness](https://github.com/hayktshagharyan9-stack/performance-benchmark-harness) | Python benchmark runner and JSON comparisons | Prototype |
-| [Document Processing Service](https://github.com/hayktshagharyan9-stack/document-processing-service) | FastAPI upload and background processing | Prototype |
-| [Scheduling API](https://github.com/hayktshagharyan9-stack/scheduling-api) | NestJS events API with validation | Prototype |
-| [AI Engineering Agent](https://github.com/hayktshagharyan9-stack/ai-engineering-agent) | Read-only repository inspector; MCP integration planned | Early prototype |
+| [Multithreaded Task Scheduler](https://github.com/hayk79202/multithreaded-task-scheduler) | C++17 thread pool, futures, graceful shutdown | Prototype |
+| [Performance Benchmark Harness](https://github.com/hayk79202/performance-benchmark-harness) | Python benchmark runner and JSON comparisons | Prototype |
+| [Document Processing Service](https://github.com/hayk79202/document-processing-service) | FastAPI upload and background processing | Prototype |
+| [Scheduling API](https://github.com/hayk79202/scheduling-api) | NestJS events API with validation | Prototype |
+| [AI Engineering Agent](https://github.com/hayk79202/ai-engineering-agent) | Read-only repository inspector; MCP integration planned | Early prototype |
 
-## What I'm exploring
+## What I work on
 
-- **Performance engineering:** repeatable benchmarks and clear measurement reports.
-- **Backend systems:** asynchronous document workflows and scheduling APIs.
-- **Developer tools:** repository inspection and engineering automation.
+- **Backend APIs:** REST endpoints, validation, authentication basics, and data modeling.
+- **Quality:** unit and API testing, debugging, logging, and clear documentation.
+- **Systems and tools:** repeatable benchmarks, C++ concurrency, and repository inspection.
 
 I publish projects as they take shape. Each repository describes its current scope and how to run it.
 
-## Tools I use
+## Technologies
 
-`C++` · `Python` · `TypeScript` · `CMake` · `FastAPI` · `PostgreSQL` · `Docker`
+`TypeScript` · `Node.js` · `NestJS` · `Python` · `FastAPI` · `PostgreSQL` · `C++` · `Docker` · `Git`
 
 <div align="center">
 
