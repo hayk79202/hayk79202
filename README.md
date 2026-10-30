@@ -14,11 +14,11 @@ I work on backend services and APIs with **TypeScript/Node.js** and **Python**. 
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Multithreaded Task Scheduler](https://github.com/hayk79202/multithreaded-task-scheduler) | C++17 thread pool, futures, graceful shutdown | Runnable demo |
-| [Performance Benchmark Harness](https://github.com/hayk79202/performance-benchmark-harness) | Python runner, JSON results, comparisons | Runnable demo |
-| [Document Processing Service](https://github.com/hayk79202/document-processing-service) | FastAPI uploads, background jobs, SQLite status | Runnable demo |
-| [Scheduling API](https://github.com/hayk79202/scheduling-api) | NestJS events, conflict checks, file persistence | Runnable demo |
-| [AI Engineering Agent](https://github.com/hayk79202/ai-engineering-agent) | MCP tools for repository and log inspection | Runnable demo |
+| [Multithreaded Task Scheduler](https://github.com/hayk79202/multithreaded-task-scheduler) | C++17 futures, graceful shutdown, idle waiting | Runnable demo |
+| [Performance Benchmark Harness](https://github.com/hayk79202/performance-benchmark-harness) | JSON results, comparisons, regression threshold | Runnable demo |
+| [Document Processing Service](https://github.com/hayk79202/document-processing-service) | FastAPI uploads, SQLite jobs, restart recovery | Runnable demo |
+| [Scheduling API](https://github.com/hayk79202/scheduling-api) | NestJS events and conflict-aware rescheduling | Runnable demo |
+| [AI Engineering Agent](https://github.com/hayk79202/ai-engineering-agent) | Read-only MCP repository and log tools | Runnable demo |
 
 ## What I work on
 
